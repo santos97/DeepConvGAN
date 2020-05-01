@@ -5,7 +5,7 @@ In this project, I have defined and trained a DCGAN on a dataset of faces. My go
 The project will be broken down into a series of tasks from loading in data to defining and training adversarial networks. At the end of the notebook, you'll be able to visualize the results of your trained Generator to see how it performs; your generated samples should look like fairly realistic faces with small amounts of noise.
 
 Final Project [Notebook](/dlnd_face_generation.ipynb)
-
+Please ignore the epochs and extraction of data from zip in the notebook!
 
 ## 1. Installation
 
